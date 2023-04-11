@@ -1,6 +1,6 @@
 ## Gabriel Tavares
 
-- 🎈 Desenvolvedor Front-End de Flutter
+- 🎈 Desenvolvedor Front-End com Flutter
 - 🎩 Pronomes: ele/dele
 
 <div align="center">
