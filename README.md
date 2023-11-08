@@ -1,6 +1,6 @@
 ## Gabriel Tavares
 
-- 🎈 Desenvolvedor Front-End com Flutter
+🎈 Desenvolvedor Front-End com Flutter
 
 <div align="center">
   <a href="https://github.com/gbtb16">
